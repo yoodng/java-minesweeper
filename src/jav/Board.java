@@ -352,7 +352,7 @@ public class Board extends JPanel {
         easyGame();
     }
 
-
+    //hha
     private void menuItem1ActionPerformed(ActionEvent e) {
         // TODO add your code here
         panel5.removeAll();
@@ -380,6 +380,7 @@ public class Board extends JPanel {
 
     }
 
+    //hhhhhh
     private void initComponents() {
         // JFormDesigner - Component initialization - DO NOT MODIFY  //GEN-BEGIN:initComponents
         frame1 = new JFrame();
