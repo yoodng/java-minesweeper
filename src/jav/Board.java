@@ -4,8 +4,6 @@
 
 package jav;
 
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
-import com.sun.xml.internal.bind.v2.TODO;
 import org.jdesktop.swingx.VerticalLayout;
 
 import javax.swing.*;
@@ -158,6 +156,7 @@ public class Board extends JPanel {
         }
     }
 
+    // TODO: 2020/10/15  
     private void mineButtonRightC(int index) {
         // TODO add your code here
         JButton btn = buttons.get(index);

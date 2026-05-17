@@ -1,4 +1,7 @@
-.ieda/
-MineClear.iml
-target/
+.idea/
+*.db
+*.iml
 out/
+target/
+swingx-core-1.6.5.jar
+.claude/
