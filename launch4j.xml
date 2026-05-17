@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>build\MineClear.jar</jar>
+  <outfile>MineClear.exe</outfile>
+  <errTitle>MineClear</errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>https://www.java.com/download/</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+<jre>
+    <path></path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>v1.0.0</txtFileVersion>
+    <fileDescription>MineClear 扫雷游戏</fileDescription>
+    <copyright>yoodng</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>v1.0.0</txtProductVersion>
+    <productName>MineClear</productName>
+    <companyName></companyName>
+    <internalName>MineClear</internalName>
+    <originalFilename>MineClear.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
